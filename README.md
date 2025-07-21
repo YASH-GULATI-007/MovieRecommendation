@@ -1,2 +1,3 @@
-# Coal-Mine-Act
-An automated legal assistant for Coal Mine Act.
+# Movie Recommendation
+
+Movie Recommendation System based on genres.

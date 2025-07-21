@@ -16,6 +16,8 @@ A content-based recommendation engine built in Python that suggests similar movi
 - Processes metadata with **NLTK, scikit-learn, pandas**.
 - Command-line or basic script-based interface for quick recommendations.
 
+---
+
 ### 🛠 Tech Stack
 - Python
 - Pandas, NLTK, scikit-learn

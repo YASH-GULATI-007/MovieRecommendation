@@ -22,9 +22,8 @@ A content-based recommendation engine built in Python that suggests similar movi
 - JSON/CSV movie metadata
 
 ---
----
 
-##🔹Part 2: TMDb Movie Explorer
+## 🔹 Part 2: TMDb Movie Explorer
 
 A simple frontend web app built with **Vite** and **Vanilla JavaScript** that lets users search movies and view real-time details using the **TMDb API**.
 

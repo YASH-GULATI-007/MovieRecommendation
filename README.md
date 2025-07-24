@@ -22,6 +22,7 @@ A content-based recommendation engine built in Python that suggests similar movi
 - JSON/CSV movie metadata
 
 ---
+---
 
 ##🔹Part 2: TMDb Movie Explorer
 
